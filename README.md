@@ -19,4 +19,4 @@ git clone https://github.com/nexus-xyz/nexus-zkvm.git
 cd nexus-zkvm
 cd /home/codespace/.nexus/network-api/clients/cli
 cargo build --release
-curl https://cli.nexus.xyz | sh
+curl https://cli.nexus.xyz | sh h3CCiYWwuLhsD1JKLyBeTZ0Twpy2
