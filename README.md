@@ -18,4 +18,5 @@ export PATH="$HOME/.local/bin:$PATH"
 git clone https://github.com/nexus-xyz/nexus-zkvm.git
 cd nexus-zkvm
 cd /home/codespace/.nexus/network-api/clients/cli
+cargo build --release
 curl https://cli.nexus.xyz | sh
